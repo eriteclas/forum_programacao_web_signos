@@ -70,7 +70,7 @@
     <div class="container shadow rounded-3 my-5">
         <div class="row row-cols-1">
             <div class="col">
-                <h1 class="text-center fw-bold mt-5">Forum Unopar - Signos</h1>
+                <h1 class="text-center fw-bold mt-5">Qual é o seu signo?</h1>
                 <p class="text-muted text-center mt-2 mb-5">
                     Horóscopo <?php echo $ano = date('Y');?>: confira a previsão de hoje
                     <?php echo $hoje = date('d/m/Y');?> para seu signo.</p>
