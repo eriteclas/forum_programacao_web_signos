@@ -1,2 +1,2 @@
-# forum_programcao_web_signos
+# forum_programacao_web_signos
 Fórum da disciplina programação web signos
